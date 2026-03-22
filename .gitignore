@@ -1,0 +1,14 @@
+# Go binary files.
+**/*.exe
+**/*.exe~
+**/*.so
+**/*.dylib
+**/*.test
+
+# Package management files
+vendor/\n
+# IDE and editor files
+*.idea/\n*.vscode/\n*.DS_Store\n# Caches
+.cache/\n
+# Logs
+*.log\n
